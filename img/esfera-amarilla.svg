@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154.413" height="154.413" viewBox="0 0 154.413 154.413">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_16753" data-name="Trazado 16753" d="M77.014,0a77.2,77.2,0,1,0,77.4,77.54v-.525A77.3,77.3,0,0,0,77.532,0Z" transform="translate(0)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.35" cy="0.296" r="0.717" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffce00"/>
+      <stop offset="0.07" stop-color="#ffce00"/>
+      <stop offset="0.148" stop-color="#f7cb00"/>
+      <stop offset="0.441" stop-color="#e0c500"/>
+      <stop offset="0.828" stop-color="#d1aa00"/>
+      <stop offset="0.886" stop-color="#d4b000"/>
+      <stop offset="0.964" stop-color="#ddc100"/>
+      <stop offset="0.978" stop-color="#e0c500"/>
+      <stop offset="1" stop-color="#e0c500"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_236" data-name="Grupo 236" transform="translate(0)" opacity="0.7">
+    <g id="Grupo_204" data-name="Grupo 204" transform="translate(0)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_89" data-name="Rectángulo 89" width="192.894" height="192.894" transform="matrix(0.976, -0.216, 0.216, 0.976, -41.472, 7.541)" fill="url(#radial-gradient)"/>
+    </g>
+  </g>
+</svg>
