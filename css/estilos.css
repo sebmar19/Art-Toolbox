@@ -31,6 +31,14 @@ strong {
     display: none;
 }
 
+.video-fondo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
 header {
     width: 100%;
     height: 125px;
@@ -1021,6 +1029,7 @@ footer p {
     background: #9D9D9D;
     z-index: 10;
     display: none;
+    overflow: scroll;
 }
 
 .lightbox.fondo-azul {
@@ -1032,19 +1041,22 @@ footer p {
 }
 
 .lightbox-wrapper {
-    width: 90%;
-    max-width: 1200px;
+    width: 100%;
     margin: auto;
-    margin-top: 20vh;
+    margin-top: 10vh;
     position: relative;
+    height: 100%;
+    padding-bottom: 10vh;
+    overflow: hidden;
 }
 
 .light-cont {
     width: 100%;
+    max-width: 1200px;
     flex-wrap: wrap;
     justify-content: center;
-    position: absolute;
-
+    position: relative;
+    margin: auto;
 }
 
 .titulo {
@@ -1310,7 +1322,7 @@ footer p {
     width: 30px;
     height: 30px;
     right: 50px;
-    top: -30px;
+    top: 20px;
     z-index: 20;
     cursor: pointer;
 }
